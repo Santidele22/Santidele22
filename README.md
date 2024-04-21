@@ -3,9 +3,9 @@
 <img align="right" widh="400" alt="coding" src="https://media0.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e474ogfdoq1v4bcancxac427qvb7r5kyp4cl4aw64s6&ep=v1_gifs_related&rid=giphy.gif&ct=g"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santidele22&label=Profile%20views&color=0e75b6&style=flat" alt="santidele22" /> </p>
 
-- 🔭 I’m currently working on **App-Birthdays**
+- 🔭 I’m currently working on **Specialize in Backend**
 
-- 🌱 I’m currently learning **Front: Next.js / Backend: microservices - nest.js**
+- 🌱 I’m currently learning **Backend: microservices - spring-boot**
 
 - 👨‍💻 All of my projects are available at [https://santidele.vercel.app/](https://santidele.vercel.app/)
 
