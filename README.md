@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Java**
 
-- 👨‍💻 All of my projects are available at [https://santidele.vercel.app/](https://santidele.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portafolio-ten-eta.vercel.app/)
 
 - 📫 How to reach me **santiidele21@gmail.com**
 
